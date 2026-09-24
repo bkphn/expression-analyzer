@@ -5,6 +5,7 @@ __pycache__/
 venv/
 ENV/
 .idea/
+/data/
 
 *.model
 *.bin
