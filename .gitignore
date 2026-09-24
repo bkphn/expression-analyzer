@@ -11,8 +11,7 @@ ENV/
 *.npy
 *.npz
 *.pkl
-Project/Data/
-Project/Model/
+src/Model/
 
 *.log
 .DS_Store
